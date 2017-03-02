@@ -20,7 +20,7 @@ public class IntermediateOperation {
      */
 
 
-    //###########################################SUMARY##################################
+    //###########################################SUMMARY#############################################
     /**
      * To summarize, working with streams in general involves three items:
       A data source (such as a collection) to perform a query on

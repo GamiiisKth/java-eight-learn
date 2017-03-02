@@ -13,5 +13,13 @@
     <artifactId>chapter-five</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+
+    <dependencies>
+        <dependency>
+            <groupId>se.joshua</groupId>
+            <artifactId>chapter-four</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
     
 </project>

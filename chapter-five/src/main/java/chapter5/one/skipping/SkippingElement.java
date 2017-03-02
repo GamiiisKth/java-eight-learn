@@ -1,7 +1,7 @@
-package chapter4;
+package chapter5.one.skipping;
 
 /**
  * @author Ali yusha {@literal <mailto:ali.yusha@so4it.com>}
  */
-public class A {
+public class SkippingElement {
 }
