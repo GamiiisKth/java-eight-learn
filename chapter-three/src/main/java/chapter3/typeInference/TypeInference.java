@@ -25,10 +25,13 @@ public class TypeInference {
             Apple.filterApplesByPassedPredicate(Apple.apples, (Apple apple) -> "green".equals(apple.getColor()));
 
 
+
     public static void main(String[] args) {
 
         applesByPassedPredicate.forEach(System.out::println);
 
         applesByPassedPredicate2.forEach(System.out::println);
+
+
     }
 }

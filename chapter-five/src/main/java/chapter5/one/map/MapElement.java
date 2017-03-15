@@ -28,7 +28,6 @@ public class MapElement {
 
         System.out.println(dishesNameLength);
 
-        IntStream
 
     }
 
