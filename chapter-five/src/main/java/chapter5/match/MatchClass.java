@@ -1,4 +1,4 @@
-package chapter5.one.match;
+package chapter5.match;
 
 import java.util.ArrayList;
 import java.util.List;

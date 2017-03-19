@@ -1,4 +1,4 @@
-package chapter5.one.map;
+package chapter5.map;
 
 import chapter4.core.Dish;
 

@@ -1,4 +1,4 @@
-package chapter5.one.distinct;
+package chapter5.distinct;
 
 import java.util.Arrays;
 import java.util.List;

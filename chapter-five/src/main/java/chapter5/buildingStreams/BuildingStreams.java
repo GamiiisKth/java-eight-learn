@@ -1,7 +1,9 @@
-package chapter5.one.skipping;
+package chapter5.buildingStreams;
 
 /**
  * @author Ali yusha {@literal <mailto:ali.yusha@so4it.com>}
  */
-public class SkippingElement {
+public class BuildingStreams {
+
+
 }

@@ -1,4 +1,4 @@
-package chapter5.one.flatMap;
+package chapter5.flatMap;
 
 import java.util.*;
 import java.util.stream.Collectors;
